@@ -1,4 +1,4 @@
-![o1](https://github.com/user-attachments/assets/fd6ead61-9ef8-4720-862a-b38d223778f7)# EXPERIMENT 6: Update the Ultrasonic sensor value in Things Mate
+# EXPERIMENT 6: Update the Ultrasonic sensor value in Things Mate
 ## NAME : M MANI SRI LATHA
 ## REGISTER NO: 212223110025
 ## DATE: 14.11.2025
